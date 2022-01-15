@@ -1,0 +1,28 @@
+{
+  "name": "command-line-cucumber-js-example",
+  "version": "1.0.0",
+  "description": "An exampe of using Cucumber-JS to test a command-line app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucumber-examples/cucumber-js-examples.git"
+  },
+  "keywords": [
+    "cucumber",
+    "bdd",
+    "example",
+    "cli"
+  ],
+  "author": "Matt Wynne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cucumber-examples/cucumber-js-examples/issues"
+  },
+  "homepage": "https://github.com/cucumber-examples/cucumber-js-examples#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "*"
+  }
+}
