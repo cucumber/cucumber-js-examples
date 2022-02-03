@@ -1,6 +1,6 @@
 # cucumber-probot-example
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that An example of using Cucumber to test-drive a probot app
+> An example of using Cucumber to test-drive a GitHub App built with [Probot](https://github.com/probot/probot).
 
 ## Setup
 
@@ -8,7 +8,10 @@
 # Install dependencies
 npm install
 
-# Run the bot
+# Run the tests
+npm test
+
+# Start the bot
 npm start
 ```
 
@@ -21,12 +24,6 @@ docker build -t cucumber-probot-example .
 # 2. Start container
 docker run -e APP_ID=<app-id> -e PRIVATE_KEY=<pem-value> cucumber-probot-example
 ```
-
-## Contributing
-
-If you have suggestions for how cucumber-probot-example could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
-
-For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
