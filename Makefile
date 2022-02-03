@@ -1,8 +1,15 @@
 examples := $(wildcard examples/*)
 
 default: $(examples)
-	@echo $<
-	cd $<; npm install; npm test
+
+$(examples) :
+	@echo
+	@echo
+	@echo $@
+	@echo
+	cd $@; npm install; npm test
+
+.PHONY: $(examples)
 
 clean:
 	git clean -fdx
