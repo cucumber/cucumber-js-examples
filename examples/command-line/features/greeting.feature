@@ -1,4 +1,4 @@
-Feature: Greeing
+Feature: Greeting
 
 	Scenario: Say hello
 		When I run `greet hello`
