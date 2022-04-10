@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A simple example of a TypeScript Cucumber-JS project",
   "main": "src/index.ts",
+  "type": "module",
   "scripts": {
-    "test": "cucumber-js"
+    "test": "node --loader ts-node/esm ./node_modules/.bin/cucumber-js"
   },
   "repository": {
     "type": "git",
