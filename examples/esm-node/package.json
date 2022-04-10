@@ -1,0 +1,28 @@
+{
+  "name": "@cucumber/esm-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple example of a Cucumber-JS project using ESM",
+  "type": "module",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucumber-examples/cucumber-js-examples.git"
+  },
+  "keywords": [
+    "cucumber",
+    "bdd",
+    "example"
+  ],
+  "author": "David Goss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cucumber/cucumber-js/issues"
+  },
+  "homepage": "https://github.com/cucumber/cucumber-js#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "*"
+  }
+}
