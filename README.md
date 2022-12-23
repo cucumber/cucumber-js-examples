@@ -1,6 +1,6 @@
 # Cucumber-JS Examples
 
-There are so many ways you can use Cucumber-JS!
+There are so many ways you can use [Cucumber-JS](https://github.com/cucumber/cucumber-js)!
 
 For example:
 
