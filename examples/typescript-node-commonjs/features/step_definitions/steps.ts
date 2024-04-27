@@ -1,4 +1,4 @@
-import assert from "assert";
+import * as assert from "assert";
 
 import { When, Then } from "@cucumber/cucumber";
 import { Greeter } from "../../src";
