@@ -1,0 +1,10 @@
+{
+  "default": {
+    "loader": [
+      "ts-node/esm"
+    ],
+    "import": [
+      "features/**/*.ts"
+    ]
+  }
+}

@@ -1,28 +1,30 @@
 {
-  "name": "@cucumber/esm-example",
+  "name": "@cucumber/typescript-example",
   "version": "1.0.0",
-  "private": true,
-  "description": "A simple example of a Cucumber-JS project using ESM",
+  "description": "A simple example of a TypeScript Cucumber-JS project",
+  "main": "src/index.ts",
   "type": "module",
   "scripts": {
     "test": "cucumber-js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cucumber-examples/cucumber-js-examples.git"
+    "url": "git+https://github.com/cucumber/cucumber-js-examples.git"
   },
   "keywords": [
     "cucumber",
     "bdd",
+    "typescript",
     "example"
   ],
-  "author": "David Goss",
+  "author": "Matt Wynne",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cucumber/cucumber-js-examples/issues"
   },
   "homepage": "https://github.com/cucumber/cucumber-js-examples#readme",
   "devDependencies": {
-    "@cucumber/cucumber": "*"
+    "@cucumber/cucumber": "*",
+    "ts-node": "^10.4.0"
   }
 }
