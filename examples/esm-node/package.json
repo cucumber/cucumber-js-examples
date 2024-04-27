@@ -19,9 +19,9 @@
   "author": "David Goss",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cucumber/cucumber-js/issues"
+    "url": "https://github.com/cucumber/cucumber-js-examples/issues"
   },
-  "homepage": "https://github.com/cucumber/cucumber-js#readme",
+  "homepage": "https://github.com/cucumber/cucumber-js-examples#readme",
   "devDependencies": {
     "@cucumber/cucumber": "*"
   }

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cucumber/cucumber-js.git"
+    "url": "git+https://github.com/cucumber/cucumber-js-examples.git"
   },
   "keywords": [
     "cucumber",
@@ -19,9 +19,9 @@
   "author": "Matt Wynne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cucumber/cucumber-js/issues"
+    "url": "https://github.com/cucumber/cucumber-js-examples/issues"
   },
-  "homepage": "https://github.com/cucumber/cucumber-js#readme",
+  "homepage": "https://github.com/cucumber/cucumber-js-examples#readme",
   "devDependencies": {
     "@cucumber/cucumber": "*",
     "ts-node": "^10.4.0"
