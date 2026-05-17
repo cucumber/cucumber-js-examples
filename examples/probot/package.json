@@ -17,7 +17,7 @@
     "test": "cucumber-js"
   },
   "dependencies": {
-    "probot": "^11.0.1"
+    "probot": "^14.3.2"
   },
   "devDependencies": {
     "@cucumber/cucumber": "*",
