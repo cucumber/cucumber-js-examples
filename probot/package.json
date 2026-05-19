@@ -23,7 +23,7 @@
     "@cucumber/cucumber": "12.9.0",
     "@types/node": "^24.0.0",
     "hamjest": "^4.0.0",
-    "nock": "^13.0.5",
+    "nock": "^14.0.0",
     "smee-client": "^1.2.2",
     "ts-node": "^10.4.0",
     "typescript": "^4.1.3"
