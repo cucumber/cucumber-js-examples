@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/cucumber/cucumber-js-examples#readme",
   "devDependencies": {
-    "@cucumber/cucumber": "12.9.0",
+    "@cucumber/cucumber": "13.0.0",
     "ts-node": "^10.4.0"
   }
 }
