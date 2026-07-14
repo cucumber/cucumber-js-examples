@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/cucumber-examples/cucumber-js-examples#readme",
   "devDependencies": {
-    "@cucumber/cucumber": "13.0.0"
+    "@cucumber/cucumber": "13.1.0"
   }
 }
