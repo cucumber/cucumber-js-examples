@@ -23,7 +23,7 @@
     "@cucumber/cucumber": "13.3.0",
     "@types/node": "^24.0.0",
     "hamjest": "^4.0.0",
-    "nock": "^14.0.0",
+    "nock": "^15.0.0",
     "ts-node": "^10.4.0",
     "typescript": "^6.0.0"
   },
